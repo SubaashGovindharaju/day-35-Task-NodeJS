@@ -2,7 +2,7 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "sum.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
